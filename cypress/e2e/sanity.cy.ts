@@ -1,4 +1,4 @@
-import { retryableBefore } from '../support/retryable-before'
+import { retryableBefore } from 'cy-retryable-before'
 
 describe('CRUD movie', () => {
   retryableBefore(() => {
