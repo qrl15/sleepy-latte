@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "Murat Ozcan",
   "license": "ISC",
   "scripts": {
     "cy:open-local": "cypress open --e2e --browser chrome --config-file cypress/config/local.config.ts",
